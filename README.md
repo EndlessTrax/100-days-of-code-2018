@@ -32,10 +32,15 @@ Update [Zon-Top-100](https://github.com/EndlessTrax/Zon-Top-100) *(damn Amazon c
 Update [Flask_template_GUI](https://github.com/EndlessTrax/Flask_template_GUI)
 
 Build a Quiz app
+
 Build a CRUD web app with a list of Movies I'd like to watch. Bonus points for integrating with Omdb API.
+
 Build a Bonsai Catalog web app (maybe with django and Twilio?)
+
 Build a secret project... shushhhh!
+
 Contribute to an open source project.
+
 And probably more.... maybe...
 
 ## Stuff I want to learn
