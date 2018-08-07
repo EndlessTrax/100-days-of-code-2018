@@ -43,6 +43,7 @@ And probably more.... maybe...
 In no particular order:
 
 - Lots more Python
+- Basic Data Analysis (Pandas, Numpy)
 - Django
 - SCSS
 - SSH
