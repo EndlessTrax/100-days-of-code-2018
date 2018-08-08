@@ -1,18 +1,8 @@
-import random 
-
-# ASSIGNMENT
-# Assignment from the Real Python course -- https://realpython.com/products/real-python-course/
-# Election between candidates A and B based on majority of three regions.
-# Candidate A has the following odds:
-#   87% chance of winning region 1
-#   65% chance of winning region 2
-#   17% chance of winning region 3
-# Function to return a number between 0-1
-# Simulate 10,000 elections, then based on the average result display the probability that candidate A will win,
-# and the probability candidate B will win.
-
 # TODO: Refactor the hell outta it!
 # TODO: Convert final decimal average into percentage figure
+
+import random 
+
 
 def random_result():
     ''' Generates a random floating point number between 0 and 1 '''

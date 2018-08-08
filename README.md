@@ -56,19 +56,13 @@ In no particular order:
 - SQL (and database practice in general)
 - Docker
 
-## Schedule
+## Schedule / What I did
 
 *(Still ironing out the details on this one)*
 
-Day 1: Start
+Day 1: Start -- Completed Real Python Assignment on Random numbers. [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%201](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%201)
 
-...
-
-Some stuff in between
-
-...
-
-Day 100: End
+Day 2:
 
 ## Resources & Links
 
