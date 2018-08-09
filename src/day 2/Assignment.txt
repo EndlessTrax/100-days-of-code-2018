@@ -27,3 +27,5 @@ Total tuition: $ 271905
 Student mean: 11040
 Student median: 10566
 Tuition mean: $ 38843
+Tuition median: $ 39849
+*************************
