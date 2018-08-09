@@ -1,4 +1,4 @@
-# Solution to 1.9.2
+# Solution to 1.9.2 of the Real Python Course
 
 def starting_data():
     # (a) the name of a university, 
@@ -18,6 +18,7 @@ def starting_data():
 
 
 def enrollment_stats(stats):
+    ''' Splits the list of lists into separate lists '''
     schools = []
     enrolled_students = []
     tuition_fees = []
@@ -31,6 +32,7 @@ def enrollment_stats(stats):
 
 
 def mean(data):
+    ''' Calculates the mean of the list values '''
     total = 0
     for i in data:
         total = total + i
@@ -42,12 +44,14 @@ def mean(data):
 
 
 def median(data):
+    ''' Calculates the list mean, knowing there is 7 items in the list. '''
     data.sort()
     median = data[3]
     return median    
 
 
 def main():
+    ''' Main function '''
     data = starting_data()
     enrolled, tuition = enrollment_stats(data)
     enrolled_mean, enrolled_total = mean(enrolled)
