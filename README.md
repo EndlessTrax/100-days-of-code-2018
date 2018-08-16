@@ -33,7 +33,7 @@ Update [Flask_template_GUI](https://github.com/EndlessTrax/Flask_template_GUI)
 
 Build a Quiz app
 
-Build a CRUD web app with a list of Movies I'd like to watch. Bonus points for integrating with Omdb API.
+**Started** - Build a CRUD web app with a list of Movies I'd like to watch. Bonus points for integrating with Omdb API.
 
 Build a Bonsai Catalog web app (maybe with django and Twilio?)
 
@@ -55,6 +55,7 @@ In no particular order:
 - Bash
 - SQL (and database practice in general)
 - Docker
+- Google Home Action w/ Python
 
 ## Schedule / What I did
 
@@ -62,7 +63,10 @@ In no particular order:
 
 Day 1: Start -- Completed Real Python Assignment on Random numbers. [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%201](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%201)
 
-Day 2:
+Day 2: Back to basics - Mutating Lists.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%202](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%202)
+
+Day 3 - current: Started a personal project - Movies To Watch. It's a Flask CRUD app built from scratch with help from [Corey Schafer's](https://github.com/CoreyMSchafer) [Flask course](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH).
 
 ## Resources & Links
 
