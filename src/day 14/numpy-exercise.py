@@ -12,7 +12,7 @@ from numpy import arange, reshape, dot, vstack
 
 # Exercise 1
 print()
-print("Exercse 1")
+print("Exercise 1")
 print("=========\n")
 
 first_matrix = arange(3, 12)
@@ -22,7 +22,7 @@ print(first_matrix)
 
 # Exercise 2
 print()
-print("Exercse 2")
+print("Exercise 2")
 print("=========\n")
 
 print(first_matrix.min())
@@ -31,7 +31,7 @@ print(first_matrix.mean())
 
 # Exercise 3
 print()
-print("Exercse 3")
+print("Exercise 3")
 print("=========\n")
 
 second_matrix = first_matrix**2
@@ -39,7 +39,7 @@ print(second_matrix)
 
 # Exercise 4
 print()
-print("Exercse 4")
+print("Exercise 4")
 print("=========\n")
 
 third_matrix = vstack([first_matrix, second_matrix])
@@ -47,14 +47,14 @@ print(third_matrix)
 
 # Exercise 5
 print()
-print("Exercse 5")
+print("Exercise 5")
 print("=========\n")
 
 print(dot(third_matrix, first_matrix))
 
 # Exercise 6
 print()
-print("Exercse 6")
+print("Exercise 6")
 print("=========\n")
 
 print(third_matrix.reshape(3,3,2))
