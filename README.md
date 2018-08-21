@@ -61,12 +61,24 @@ In no particular order:
 
 *(Still ironing out the details on this one)*
 
-Day 1: Start -- Completed Real Python Assignment on Random numbers. [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%201](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%201)
+**Day 1:** Start -- Completed Real Python Assignment on Random numbers. [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%201](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%201)
 
-Day 2: Back to basics - Mutating Lists.
+**Day 2:** Back to basics - Mutating Lists.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%202](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%202)
 
-Day 3 - current: Started a personal project - Movies To Watch. It's a Flask CRUD app built from scratch with help from [Corey Schafer's](https://github.com/CoreyMSchafer) [Flask course](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH).
+**Day 3 - Day 12:** Started a personal project - Movies To Watch. It's a Flask CRUD app built from scratch with help from [Corey Schafer's](https://github.com/CoreyMSchafer) [Flask course](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH). Current features:
+
+- Login / Logout
+- User Registration using password hashing
+- Password Reset by Email using Tokens
+- Ability to (manualy) Add and Delete Movies from Users 'to watch' list
+- Search Movie Database (using OMBD API) to find a movie they want to add to list
+
+TODO: Add movie to list from the search results
+TODO: Deploy
+
+**Day 14:** Continued Real Python Course — Worked on Numpy section.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%214](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%214)
 
 ## Resources & Links
 
