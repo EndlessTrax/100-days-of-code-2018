@@ -66,7 +66,7 @@ In no particular order:
 **Day 2:** Back to basics - Mutating Lists.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%202](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%202)
 
-**Day 3 - Day 12:** Started a personal project - Movies To Watch. It's a Flask CRUD app built from scratch with help from [Corey Schafer's](https://github.com/CoreyMSchafer) [Flask course](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH). Current features:
+**Day 3 - Day 13:** Started a personal project - Movies To Watch. It's a Flask CRUD app built from scratch with help from [Corey Schafer's](https://github.com/CoreyMSchafer) [Flask course](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH). Current features:
 
 - Login / Logout
 - User Registration using password hashing
