@@ -75,6 +75,7 @@ In no particular order:
 - Search Movie Database (using OMBD API) to find a movie they want to add to list
 
 TODO: Add movie to list from the search results
+
 TODO: Deploy
 
 **Day 14:** Continued Real Python Course — Worked on Numpy section.
