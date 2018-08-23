@@ -71,7 +71,7 @@ In no particular order:
 - Login / Logout
 - User Registration using password hashing
 - Password Reset by Email using Tokens
-- Ability to (manualy) Add and Delete Movies from Users 'to watch' list
+- Ability to (manually) Add and Delete Movies from Users 'to watch' list
 - Search Movie Database (using OMBD API) to find a movie they want to add to list
 
 TODO: Add movie to list from the search results
@@ -81,6 +81,11 @@ TODO: Deploy
 **Day 14:** Continued Real Python Course — Worked on Numpy section.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%214](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%214)
 
+**Day 15:** Finished my Web App: Movies to Watch. Added the ability to add your movie to your list form the search results and deployed to Heroku. [Check out the live version here](https://movie-2-watch.herokuapp.com/)
+
+**Day 16:** Continued Real Python Course 1. Practiced MatPlotLib section completing the exercise.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%216](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%216)
+
 ## Resources & Links
 
-...Nothing to see here...
+Movies to Watch App - [https://movie-2-watch.herokuapp.com/](https://movie-2-watch.herokuapp.com/)
