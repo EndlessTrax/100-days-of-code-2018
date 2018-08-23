@@ -61,10 +61,10 @@ In no particular order:
 
 *(Still ironing out the details on this one)*
 
-**Day 1:** Start -- Completed Real Python Assignment on Random numbers. [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%201](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%201)
+**Day 1:** Start -- Completed Real Python Assignment on Random numbers. [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-01](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-01)
 
 **Day 2:** Back to basics - Mutating Lists.
-[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%202](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%202)
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-02](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-02)
 
 **Day 3 - Day 13:** Started a personal project - Movies To Watch. It's a Flask CRUD app built from scratch with help from [Corey Schafer's](https://github.com/CoreyMSchafer) [Flask course](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH). Current features:
 
@@ -79,12 +79,12 @@ TODO: Add movie to list from the search results
 TODO: Deploy
 
 **Day 14:** Continued Real Python Course — Worked on Numpy section.
-[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%214](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%214)
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-14](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-14)
 
 **Day 15:** Finished my Web App: Movies to Watch. Added the ability to add your movie to your list form the search results and deployed to Heroku. [Check out the live version here](https://movie-2-watch.herokuapp.com/)
 
 **Day 16:** Continued Real Python Course 1. Practiced MatPlotLib section completing the exercise.
-[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%216](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/Day%216)
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-16](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-16)
 
 ## Resources & Links
 
