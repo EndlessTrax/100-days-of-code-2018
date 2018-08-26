@@ -86,6 +86,9 @@ TODO: Deploy
 **Day 16:** Continued Real Python Course 1. Practiced MatPlotLib section completing the exercise.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-16](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-16)
 
+**Day 17 - 18:** Continued Real Python Course 1. Started the GUI section working with easyGUI.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-17-18](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-17-18)
+
 ## Resources & Links
 
 Movies to Watch App - [https://movie-2-watch.herokuapp.com/](https://movie-2-watch.herokuapp.com/)
