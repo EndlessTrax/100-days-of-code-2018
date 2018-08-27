@@ -89,6 +89,9 @@ TODO: Deploy
 **Day 17 - 18:** Continued Real Python Course 1. Started the GUI section working with easyGUI.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-17-18](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-17-18)
 
+**Day 19 - 20:** Finished the GUI section of the Real python course. Created the poem maker assignment.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-19-20](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-19-20)
+
 ## Resources & Links
 
 Movies to Watch App - [https://movie-2-watch.herokuapp.com/](https://movie-2-watch.herokuapp.com/)
