@@ -92,6 +92,9 @@ TODO: Deploy
 **Day 19 - 20:** Finished the GUI section of the Real python course. Created the poem maker assignment.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-19-20](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-19-20)
 
+**Day 21:** Worked through some basic C# quickstarts on doc.microsoft.com to refresh C# syntax. Created the Fibonacci sequence using dot net core. 
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-21](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-21)
+
 ## Resources & Links
 
 Movies to Watch App - [https://movie-2-watch.herokuapp.com/](https://movie-2-watch.herokuapp.com/)

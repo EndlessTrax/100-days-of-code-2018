@@ -1,0 +1,11 @@
+D:\100-days-of-code-2018\src\day-21\bin\Debug\netcoreapp2.1\day-21.deps.json
+D:\100-days-of-code-2018\src\day-21\bin\Debug\netcoreapp2.1\day-21.runtimeconfig.json
+D:\100-days-of-code-2018\src\day-21\bin\Debug\netcoreapp2.1\day-21.runtimeconfig.dev.json
+D:\100-days-of-code-2018\src\day-21\bin\Debug\netcoreapp2.1\day-21.dll
+D:\100-days-of-code-2018\src\day-21\bin\Debug\netcoreapp2.1\day-21.pdb
+D:\100-days-of-code-2018\src\day-21\obj\Debug\netcoreapp2.1\day-21.csprojAssemblyReference.cache
+D:\100-days-of-code-2018\src\day-21\obj\Debug\netcoreapp2.1\day-21.csproj.CoreCompileInputs.cache
+D:\100-days-of-code-2018\src\day-21\obj\Debug\netcoreapp2.1\day-21.AssemblyInfoInputs.cache
+D:\100-days-of-code-2018\src\day-21\obj\Debug\netcoreapp2.1\day-21.AssemblyInfo.cs
+D:\100-days-of-code-2018\src\day-21\obj\Debug\netcoreapp2.1\day-21.dll
+D:\100-days-of-code-2018\src\day-21\obj\Debug\netcoreapp2.1\day-21.pdb
