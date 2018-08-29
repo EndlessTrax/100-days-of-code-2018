@@ -95,6 +95,9 @@ TODO: Deploy
 **Day 21:** Worked through some basic C# quickstarts on doc.microsoft.com to refresh C# syntax. Created the Fibonacci sequence using dot net core. 
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-21](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-21)
 
+**Day 22:** More C# practice today. Took far too long! Was a tougher than it should have been. Ended up making a small console app that creates a markdown file for a new blog post with prefilled meta.
+[https://github.com/EndlessTrax/blog-template-md](https://github.com/EndlessTrax/blog-template-md)
+
 ## Resources & Links
 
 Movies to Watch App - [https://movie-2-watch.herokuapp.com/](https://movie-2-watch.herokuapp.com/)
