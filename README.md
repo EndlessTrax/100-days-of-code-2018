@@ -98,6 +98,10 @@ TODO: Deploy
 **Day 22:** More C# practice today. Took far too long! Was a tougher than it should have been. Ended up making a small console app that creates a markdown file for a new blog post with prefilled meta.
 [https://github.com/EndlessTrax/blog-template-md](https://github.com/EndlessTrax/blog-template-md)
 
+**Day 23 - 25:**
+
+**Day 26:**
+
 ## Resources & Links
 
 Movies to Watch App - [https://movie-2-watch.herokuapp.com/](https://movie-2-watch.herokuapp.com/)
