@@ -98,9 +98,10 @@ TODO: Deploy
 **Day 22:** More C# practice today. Took far too long! Was a tougher than it should have been. Ended up making a small console app that creates a markdown file for a new blog post with prefilled meta.
 [https://github.com/EndlessTrax/blog-template-md](https://github.com/EndlessTrax/blog-template-md)
 
-**Day 23 - 25:**
+**Day 23 - 25:** Worked on building a project in C# that I have already build in Python. You can see the progress so far [here](https://github.com/EndlessTrax/Wizard-Game)
 
-**Day 26:**
+**Day 26:** Finally got around to starting the JavaScript 30 course by Wes Bos.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-26](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-26)
 
 ## Resources & Links
 
