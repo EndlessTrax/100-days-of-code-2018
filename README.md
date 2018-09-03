@@ -100,8 +100,11 @@ TODO: Deploy
 
 **Day 23 - 25:** Worked on building a project in C# that I have already build in Python. You can see the progress so far [here](https://github.com/EndlessTrax/Wizard-Game)
 
-**Day 26:** Finally got around to starting the JavaScript 30 course by Wes Bos.
+**Day 26:** Finally got around to starting the [JavaScript 30 course by Wes Bos](https://javascript30.com/).
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-26](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-26)
+
+**Day 27:** Worked through the next two sections of the JavaScript30 course.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-27](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-27)
 
 ## Resources & Links
 
