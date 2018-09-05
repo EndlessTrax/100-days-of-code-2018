@@ -109,6 +109,9 @@ TODO: Deploy
 **Day 28:** Completed the next part of the JavaScript30 course.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-28](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-28)
 
+**Day 29:** Worked through the next two sections of the JavaScript30 course.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-29](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-29)
+
 ## Resources & Links
 
 Movies to Watch App - [https://movie-2-watch.herokuapp.com/](https://movie-2-watch.herokuapp.com/)
