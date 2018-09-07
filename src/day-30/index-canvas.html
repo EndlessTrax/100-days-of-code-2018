@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML5 Canvas</title>
+</head>
+<body>
+<canvas id="draw" width="800" height="800"></canvas>
+<script>
+  // Select Canvas
+  const canvas = document.querySelector('#draw');
+  const ctx = canvas.getContext('2d');
+  // Make canvas full screen
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  // Add some attributes to the context
+  ctx.strokeStyle = 'BADA55';
+  ctx.lineJoin = 'round';
+  ctx.lineCap = 'round';
+  ctx.lineWidth = 100;
+
+  // Some preset vars to play with
+  let isDrawing = false;
+  let lastX = 0;
+  let lastY = 0;
+  let hue = 0;
+  let direction = true;
+
+  // The main drawing function!
+  function draw(e){
+    if(!isDrawing) return; // Stops the function running when they are not moused down
+    console.log(e); // This really isn't needed...
+    // Will draw the color of hue. Which will be changing.
+    ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
+    // Begin!
+    ctx.beginPath();
+    ctx.moveTo(lastX, lastY);
+    // Draws line to where the mouse finishes
+    ctx.lineTo(e.offsetX, e.offsetY);
+    // The actual drawing function. Nothing will happen with stroke().
+    ctx.stroke();
+    // Update lastX and lastY to the mouses current position, else the line will always start from the same point.
+    // lastX = e.offsetX;
+    // lastY = e.offsetY;
+    // ES6 allows to do both with one line.
+    [lastX, lastY] = [e.offsetX, e.offsetY];
+
+    // Increment hue
+    hue ++;
+    // Once reaches max hue it will reset to 0.
+    if(hue >= 360){ 
+      hue=0; 
+    }
+    // Makes the brush size grow and shrink
+    if(ctx.lineWidth >= 100 || ctx.lineWidth <= 1) {
+      direction = !direction;
+    }
+    // Depneding on whether 'direction' is true or false it'll make the brush stroke larger or smaller incrementally.
+    if(direction){
+      ctx.lineWidth++;
+    } else {
+      ctx.lineWidth--;
+    }
+  }
+
+  // Sets lastX and lastY on mouse down
+  canvas.addEventListener('mousedown', (e) => {
+    isDrawing = true;
+    [lastX, lastY] = [e.offsetX, e.offsetY];
+  });
+
+  // Draws on mouse move (if the button is pressed down only)
+  canvas.addEventListener('mousemove', draw);
+  // Don't draw if no mousedown or mouse off the page. 
+  canvas.addEventListener('mouseup', () => isDrawing = false);
+  canvas.addEventListener('mouseout', () => isDrawing = false);
+
+</script>
+
+<style>
+  html, body {
+    margin:0;
+  }
+</style>
+
+</body>
+</html>
