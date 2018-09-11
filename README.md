@@ -120,6 +120,12 @@ TODO: Deploy
 **Day 33:** Back to the JavaScript30 course. Two more sections crossed off.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-33](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-33)
 
+**Day 34:** Continued JS30 course. One more lesson complete.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-34](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-34)
+
+**Day 35:** THREE more down from the JS30 course.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-35](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-35)
+
 ## Resources & Links
 
 Movies to Watch App - [https://movie-2-watch.herokuapp.com/](https://movie-2-watch.herokuapp.com/)
