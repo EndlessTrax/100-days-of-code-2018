@@ -126,6 +126,9 @@ TODO: Deploy
 **Day 35:** THREE more down from the JS30 course.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-35](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-35)
 
+**Day 36:** One more down from the JS30 course.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-36](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-36)
+
 ## Resources & Links
 
 Movies to Watch App - [https://movie-2-watch.herokuapp.com/](https://movie-2-watch.herokuapp.com/)
