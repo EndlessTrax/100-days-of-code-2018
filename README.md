@@ -115,7 +115,7 @@ TODO: Deploy
 **Day 30:** Another two sections of the JavaScript30 course has bit the dust!
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-30](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-30)
 
-**Day 31 & 32:** Worked on a private project. It's a webscraper.
+**Day 31 & 32:** Worked on a private project. It's a web scraper.
 
 **Day 33:** Back to the JavaScript30 course. Two more sections crossed off.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-33](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-33)
@@ -128,6 +128,11 @@ TODO: Deploy
 
 **Day 36:** One more down from the JS30 course.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-36](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-36)
+
+**Day 37:** Not feeling it, so did work on a side project (the web scrapper).
+
+**Day 38:** Back to the JS30 course. Two more lessons checked off.
+[https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-38](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-38)
 
 ## Resources & Links
 
