@@ -134,6 +134,8 @@ TODO: Deploy
 **Day 38:** Back to the JS30 course. Two more lessons checked off.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-38](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-38)
 
+**Day 39-** Working on a personal project while learning Django! Code in a private repo. Sorry, not sorry!
+
 ## Resources & Links
 
 Movies to Watch App - [https://movie-2-watch.herokuapp.com/](https://movie-2-watch.herokuapp.com/)
