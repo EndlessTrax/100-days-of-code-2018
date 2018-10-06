@@ -134,7 +134,11 @@ TODO: Deploy
 **Day 38:** Back to the JS30 course. Two more lessons checked off.
 [https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-38](https://github.com/EndlessTrax/100-days-of-code-2018/tree/master/src/day-38)
 
-**Day 39-** Working on a personal project while learning Django! Code in a private repo. Sorry, not sorry!
+**Day 39-54:** Working on a personal project while learning Django! Code in a private repo. Sorry, not sorry!
+
+**Day 55-57 :** Worked on a .NET app I'm helping a friend with. Mostly spent my hour getting it set up and getting it to the point where it compiled. Managed to set up a local database with SQL server too. It's all very different to Python...
+
+**Day 58- :** Back to working on my Django app. Added some extra function and swore a lot at service workers.
 
 ## Resources & Links
 
